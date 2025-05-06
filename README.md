@@ -13,6 +13,7 @@
 Повторно можно запускать уже только через скрипт без повторения всех действий
 
 Место хранения vcpkg : C:\path\to\vcpkg
+
 Место хранения VoxelEngine : C:\Users/Имя пользователя\source\repos\VoxelEngine-Cpp
 
 Возможности скрипта : Автоматически устанавливает все необходимые файлы для VoxelCore от MihailRis (https://github.com/MihailRis/voxelcore)
